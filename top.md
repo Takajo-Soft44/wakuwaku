@@ -1,5 +1,5 @@
 ## 概要
-  わくわくランドはお客様に囚人になっていただき、アトラクションや食事を体験していただけます。
+  
   
   頑張って脱獄しよう！　　
   
@@ -10,3 +10,8 @@
 [アトラクション](https://takajo-soft05.github.io/wakuwakuland/)
 
 [アクセス](https://takajo-soft34.github.io/wakuwakuLand/access)
+
+
+
+
+*
