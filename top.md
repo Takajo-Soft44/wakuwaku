@@ -9,9 +9,13 @@
 
 [アトラクション](https://takajo-soft05.github.io/wakuwakuland/)
 
+[フード](https://takajo-soft09.github.io/wakuwaku-land/FOOD)
+
+[チケット](https://takajo-soft01.github.io/wakuwakuland/)
+
 [アクセス](https://takajo-soft34.github.io/wakuwakuLand/access)
 
-
+[マップ](https://takajo-soft37.github.io/wakuwakuland/--)
 
 
 ※わくわくランドは架空の遊園地です
