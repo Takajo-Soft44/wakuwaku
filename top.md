@@ -1,7 +1,7 @@
 ## 概要
+  囚人には毎日の刑務作業が課せられるぞ。
   
-  
-  頑張って脱獄しよう！　　
+  出所か脱獄かを選び、この牢獄から抜け出せ！
   
   ![囚人](http://3.bp.blogspot.com/-owynIKslu78/VixBPxPNAtI/AAAAAAAAz_o/jVqeKsO6AQI/s180-c/hanzai_datsugoku.png)
   
@@ -14,4 +14,4 @@
 
 
 
-*
+※わくわくランドは架空の遊園地です
