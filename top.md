@@ -5,8 +5,6 @@
   
   ![囚人](http://3.bp.blogspot.com/-owynIKslu78/VixBPxPNAtI/AAAAAAAAz_o/jVqeKsO6AQI/s180-c/hanzai_datsugoku.png)
   
-  ![囚人2](https://4.bp.blogspot.com/-uCy5Q3AOEZA/WzC-kK29f2I/AAAAAAABNDE/vcFDxml9_igPJR5PQDhSP9WDC39AEY94wCLcBGAs/s400/keimusyo_syakuhou.png)
-  
 [introduction](https://takajo-soft02.github.io/wakuwakuland/)
 
 [アトラクション](https://takajo-soft05.github.io/wakuwakuland/)
