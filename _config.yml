@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: わくわくランド
+description: トップページ
+github:
+  is_project_page: false
