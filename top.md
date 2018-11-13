@@ -15,7 +15,7 @@
 
 [アクセス](https://takajo-soft34.github.io/wakuwakuLand/access)
 
-[マップ](https://takajo-soft37.github.io/wakuwakuland/--)
+[マップ](https://takajo-soft37.github.io/wakuwakuland/)
 
 
 ※わくわくランドは架空の遊園地です
